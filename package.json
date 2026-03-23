@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/sandraalbarran/Module5-Lab1-Git-VSCode#readme",
   "dependencies": {
+    "expo": "^55.0.8",
     "express": "^5.2.1"
   }
 }
