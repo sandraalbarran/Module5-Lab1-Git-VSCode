@@ -1,0 +1,24 @@
+{
+  "name": "module5-lab1-git-vscode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandraalbarran/Module5-Lab1-Git-VSCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sandraalbarran/Module5-Lab1-Git-VSCode/issues"
+  },
+  "homepage": "https://github.com/sandraalbarran/Module5-Lab1-Git-VSCode#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
