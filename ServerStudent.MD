@@ -1,10 +1,14 @@
-# Server Student Notes
+## Part 1 - Clone Repository
 
-## Git Workflow
+Command used:
 
-git status
-git add .
-git commit -m "server notes"
-git push
+git clone https://github.com/DineshSthapit/IFT458-Middleware-2026.git
 
-This process tracks changes, stages files, commits them, and pushes them to GitHub.
+Terminal output:
+
+Cloning into 'IFT458-Middleware-2026'...
+remote: Repository not found.
+fatal: repository 'https://github.com/DineshSthapit/IFT458-Middleware-2026.git/' not found
+
+Explanation:
+The repository is private and requires an invitation. Since the repository required access, I continued the assignment using my local project files and my own GitHub repository.
